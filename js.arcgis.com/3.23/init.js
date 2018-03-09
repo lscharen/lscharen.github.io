@@ -821,6 +821,9 @@
         location: "//apps.prowestgis.com/widgets",
         name: "pwa"
     }, {
+        location: "//lscharen.github.io/widgets",
+        name: "lscharen"
+    }, {
         location: "//js.arcgis.com/3.23/dojo",
         name: "dojo"
     }]
