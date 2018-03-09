@@ -1,0 +1,15 @@
+{
+  "name": "GoogleMaps",
+  "platform": "HTML",
+  "version": "1.0",
+  "wabVersion": "2.3",
+  "author": "Pro-West & Associates, Inc.",
+  "description": "Use a Google Maps basemap in place of the Esri Basemap",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": false,
+    "hasUIFile": false,
+    "supportMultiInstance": false
+  }
+}

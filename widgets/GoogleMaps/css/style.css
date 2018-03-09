@@ -1,0 +1,18 @@
+.jimu-widget-google-maps .google-maps-toggle {
+  position: relative;
+	width: 75px;
+	height: 75px;
+	border: 2px solid white;
+	border-radius: 2px;
+	box-shadow: 0px 1px 4px rgba(0,0,0,0.3);
+
+	cursor: pointer;
+}
+
+.jimu-widget-google-maps .google-maps-toggle.roads-selected {
+	background-image: url(../images/hybrid.png);
+}
+
+.jimu-widget-google-maps .google-maps-toggle.hybrid-selected {
+	background-image: url(../images/road.png);
+}
